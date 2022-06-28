@@ -16,11 +16,6 @@ add_executable(hello_binary
     src/main.cpp 
 )
 
-# target_link_libraries(hello_binary
-#     PRIVATE
-#     hello_library
-# )
-
 target_link_libraries( hello_binary
     PRIVATE 
         hello::library
