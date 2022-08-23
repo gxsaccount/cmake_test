@@ -1,3 +1,0 @@
-/home/gaoxiang/cmake_test/ch10-使用ninja构建/build/CMakeFiles/hello_cmake.dir
-/home/gaoxiang/cmake_test/ch10-使用ninja构建/build/CMakeFiles/edit_cache.dir
-/home/gaoxiang/cmake_test/ch10-使用ninja构建/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/gaoxiang/cmake_test/ch12-设置c++标准/after_3.1/build/CMakeFiles/hello_cpp11.dir
+/home/gaoxiang/cmake_test/ch12-设置c++标准/after_3.1/build/CMakeFiles/edit_cache.dir
+/home/gaoxiang/cmake_test/ch12-设置c++标准/after_3.1/build/CMakeFiles/rebuild_cache.dir

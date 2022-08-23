@@ -1,4 +1,4 @@
-# Install script for directory: /home/gaoxiang/cmake_test/ch10-使用ninja构建
+# Install script for directory: /home/gaoxiang/cmake_test/ch12-设置c++标准/after_3.1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/gaoxiang/cmake_test/ch10-使用ninja构建/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/gaoxiang/cmake_test/ch12-设置c++标准/after_3.1/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
